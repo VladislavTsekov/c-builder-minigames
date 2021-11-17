@@ -3,15 +3,15 @@
 	<Transactions>
     <Transaction>2021/11/07 11:52:33.000.565,=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/11/07 11:52:34.000.464,=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\vladi\Desktop\Unit1.cpp</Transaction>
-    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\vladi\Desktop\Unit1.h</Transaction>
-    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\vladi\Desktop\Unit1.dfm</Transaction>
-    <Transaction>2021/11/07 11:54:09.000.671,C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\vladi\Desktop\Project1PCH1.h</Transaction>
-    <Transaction>2021/11/07 11:54:12.000.131,C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\vladi\Desktop\Project1.cbproj</Transaction>
+    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Desktop\Unit1.h=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Desktop\Unit1.dfm=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/07 11:54:05.000.885,C:\Users\vladi\Desktop\Unit1.cpp=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/11/07 11:54:09.000.671,C:\Users\vladi\Desktop\Project1PCH1.h=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/11/07 11:54:12.000.131,C:\Users\vladi\Desktop\Project1.cbproj=C:\Users\vladi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>2021/11/07 13:17:05.000.099,=C:\Users\vladi\Desktop\Unit2.cpp</Transaction>
     <Transaction>2021/11/09 13:49:02.000.977,=C:\Users\vladi\Desktop\Hinkov\Unit3.cpp</Transaction>
     <Transaction>2021/11/09 13:55:50.000.219,=C:\Users\vladi\Desktop\Hinkov\Unit2.cpp</Transaction>
-    <Transaction>2021/11/16 13:25:11.411,C:\Users\vladi\Desktop\Hinkov\Unit2.cpp=</Transaction>
+    <Transaction>2021/11/16 13:25:11.000.411,C:\Users\vladi\Desktop\Hinkov\Unit2.cpp=</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="Project1.cpp"/>
@@ -20,5 +20,5 @@
     <File Path="Unit1.cpp"/>
     <File Path="Unit1.dfm"/>
     <File Path="Unit1.h"/>
-  </ProjectSortOrder>
+  </ProjectSortOrder>  <BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
