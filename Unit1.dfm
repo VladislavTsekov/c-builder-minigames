@@ -26,7 +26,7 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
     TabOrder = 0
-    OnClick = Button1Click
+    OnClick = OpenGame
   end
   object Button2: TButton
     Left = 544
@@ -41,7 +41,7 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
     TabOrder = 1
-    OnClick = Button2Click
+    OnClick = OpenGame
   end
   object Button3: TButton
     Left = 8
@@ -56,7 +56,7 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
     TabOrder = 2
-    OnClick = Button3Click
+    OnClick = OpenGame
   end
   object Button4: TButton
     Left = 8
@@ -71,6 +71,24 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
     TabOrder = 3
-    OnClick = Button4Click
+    OnClick = OpenGame
+  end
+  object GamePanel: TPanel
+    Left = 8
+    Top = 8
+    Width = 1084
+    Height = 777
+    Caption = 'Game'
+    TabOrder = 4
+    Visible = False
+    object Button5: TButton
+      Left = 32
+      Top = 32
+      Width = 105
+      Height = 49
+      Caption = 'Back'
+      TabOrder = 0
+      OnClick = CloseGame
+    end
   end
 end
